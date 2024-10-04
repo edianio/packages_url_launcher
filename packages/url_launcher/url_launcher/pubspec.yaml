@@ -6,8 +6,8 @@ issue_tracker: https://github.com/flutter/flutter/issues?q=is%3Aissue+is%3Aopen+
 version: 6.3.0
 
 environment:
-  sdk: ^3.5.2
-  flutter: ">=3.24.2"
+  sdk: ^3.5.3
+  flutter: ">=3.24.3"
 
 flutter:
   plugin:
